@@ -13,6 +13,7 @@ public class AppTest
   @Test
   public void testGoogle() throws InterruptedException{
 	  System.setProperty("webdriver.chrome.driver", "F:\\Backup\\MyCode\\chromedriver\\chromedriver.exe");
+	  System.out.println("Test");
   }
   
 }
