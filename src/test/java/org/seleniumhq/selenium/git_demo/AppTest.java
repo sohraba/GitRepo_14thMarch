@@ -14,7 +14,7 @@ public class AppTest
   public void testGoogle() throws InterruptedException{
 	  System.setProperty("webdriver.chrome.driver", "F:\\Backup\\MyCode\\chromedriver\\chromedriver.exe");
 	  System.out.println("Test");
-	  System.out.println("Test2");
+	  System.out.println("Test3");
   }
   
 }
